@@ -68,3 +68,6 @@ Rating Service:
 GET http://localhost:8083/ratings
 
 GET http://localhost:8083/ratings/users/{userId}
+
+![Ureka Registry](https://github.com/user-attachments/assets/1c53cb37-4c58-4fb3-a89f-a5be38814641)
+
